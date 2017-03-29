@@ -1,5 +1,5 @@
 # Sitecore.Support.119704
-The workaround fixes unnecessary &quot;Do you want to save the changes to the item?&quot; dialog when adding an item to the existing bucket node.
+The patch fixes unnecessary `Do you want to save the changes to the item?` dialog box when adding an item to the existing bucket node.
 
 ## License  
 This patch is licensed under the [Sitecore Corporation A/S License for GitHub](https://github.com/sitecoresupport/Sitecore.Support.119704/blob/master/LICENSE).  
